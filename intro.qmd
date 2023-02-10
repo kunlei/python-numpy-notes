@@ -1,0 +1,3 @@
+# Introduction
+
+Numpy is a Python package for scientific computation.

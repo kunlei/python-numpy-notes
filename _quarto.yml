@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Python Numpy Notes"
+  author: "Kunlei Lian"
+  date: "2/10/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - functions.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

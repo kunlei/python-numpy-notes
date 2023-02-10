@@ -1,0 +1,3 @@
+# Preface {.unnumbered}
+
+This book contains my notes taken during my journay of learning and using Python Numpy Package.

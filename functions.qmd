@@ -1,0 +1,7 @@
+# Common Functions {.unnumbered}
+
+```{python}
+import numpy as np
+x_range = np.linspace(-1, 1, 11)
+print(x_range)
+```
