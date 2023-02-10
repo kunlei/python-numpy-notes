@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Python Numpy Notes",
+    "section": "",
+    "text": "Preface\nThis book contains my notes taken during my journay of learning and using Python Numpy Package."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "Numpy is a Python package for scientific computation."
+  },
+  {
+    "objectID": "functions.html",
+    "href": "functions.html",
+    "title": "Common Functions",
+    "section": "",
+    "text": "import numpy as np\nx_range = np.linspace(-1, 1, 11)\nprint(x_range)\n\n[-1.  -0.8 -0.6 -0.4 -0.2  0.   0.2  0.4  0.6  0.8  1. ]"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  }
+]
